@@ -106,7 +106,7 @@ class Appointments extends Component {
                   onChange={this.onChangeDateInput}
                   className="input"
                 />
-                <button type="submit" button="add-button">
+                <button type="submit" className="add-button">
                   Add
                 </button>
               </form>
